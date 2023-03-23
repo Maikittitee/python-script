@@ -1,9 +1,6 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import os
-# import json
-# # import shutil
-# # # from subprocess import PIPE, run
 import sys
 
 def	is_prototype(line):
